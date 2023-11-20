@@ -235,8 +235,6 @@ button:hover {
     padding: 1rem;
 }
 
-/* Grid section starts here */
-
 
 /* media query starts here */
 
@@ -246,7 +244,6 @@ button:hover {
         min-height: 100vh;
         min-width: 100vw;
     }
-
     header {
         top: 0;
         position: sticky;
@@ -435,6 +432,7 @@ button:hover {
         padding: 1rem;
     }  
 }
+
 @media screen and (max-width: 481px) {
     body {
         background-color: rgb(199, 112, 112);
@@ -611,3 +609,4 @@ button:hover {
     }  
 }
     /* media query ends here */
+
